@@ -1,0 +1,15 @@
+{
+  "name": "advprog-final-front",
+  "version": "0.0.0",
+  "description": "Advanced Programming final project front-end",
+  "main": "index.html",
+  "dependencies": {
+    "http-server": "~0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "http-server -p 9000"
+  },
+  "author": "Raibima Imam Putra",
+  "license": "MIT"
+}
